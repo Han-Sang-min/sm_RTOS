@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Hansangmin/CLionProjects/hexParser/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\hexParser.dir\\main.c.obj -c C:\\Users\\Hansangmin\\CLionProjects\\hexParser\\main.c",
+  "file": "C:/Users/Hansangmin/CLionProjects/hexParser/main.c",
+  "output": "CMakeFiles/hexParser.dir/main.c.obj"
+}
+]
